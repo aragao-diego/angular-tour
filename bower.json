@@ -33,7 +33,7 @@
     "package.json"
   ],
   "dependencies": {
-    "angular": "~1.4.6",
+    "angular": "~1.x",
     "jquery": "~2.0.3"
   },
   "devDependencies": {
